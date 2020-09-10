@@ -35,7 +35,17 @@ User Requirements:
 - System shows new transfered money in account.
 
 ### 4.6: 
-### Suggest how an engineer responsible fr drawing up a system requrements specification might keep track of the relationships between functional and non-functional requirements.
+### Suggest how an engineer responsible for drawing up a system requrements specification might keep track of the relationships between functional and non-functional requirements.
+
+One way to keep track of the relationships between functional and non-functional requirements is to include some kind of graph or chart to plot everytime they interact with one another. Similar to a binary tree, you could start from each beginning requirement (root) and stem to each requirement that stems after that. You can create a tree for functional and a tree for non-functional requirements and associate the root of the non-functional tree to the root of the functional tree and everytime a new requirement stems from another, you can record the non-functional requirement that related to the functional requirement. 
 
 ### 4.7: 
 ### Using your knowledge of how an ATM is used, develop a set of use cases that could serve as a basis for understanding the requirements for an ATM system.
+
+Use Case: Entering Pin. The user will enter a pin to match his card and the system must check if that pin is a match for that card.
+
+Use Case: Withdrawing Money. The user will specify an amount to withdraw and the system will check if there are sufficient funds in the account. If there are enough funds, the money with wthdrawal.
+
+Use Case: Depositing Money. The user with specify desired amount and account they want to deposit to and system deposits it.
+
+Use Case: Transfer Money between accounts. The user will transfer money from either checking to savings or vice versa if they so desire. The System will validate the transfer and the amount in the account will change.
