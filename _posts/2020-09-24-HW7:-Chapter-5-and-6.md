@@ -19,7 +19,13 @@ published: true
 
 ### 6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:
 ### - A ticket machine used by passengers at a railway station.
+
+![s5.png]({{site.baseurl}}/_posts/s5.png)
+
 ### - A computer-controlled video conferencing system that allows video, audio, and computer data to be visible to several participants at the same time.
+
+![s6.png]({{site.baseurl}}/_posts/s6.png)
+
 ### - A robot floor-cleaner that is intended to clean relatively clear
 
-
+![s7.png]({{site.baseurl}}/_posts/s7.png)
