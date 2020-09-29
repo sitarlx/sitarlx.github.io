@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Software engineering itself and coding is hard enough, now try factoring in outside forces like scheduling, conflicting conceptual views, or a poor team manager. After reading Frederick P. Brooks Jr.'s, "They Mythical Man-Month", I now see how coding is actually one of the easier parts about developing software. According to Brooks, you are supposed to use the following rule of thumb when scheduling a software task, "1/3 planning, 1/6 coding, 1/4 component testing and early system test, and 1/4 system test, all components in hand" (20). As you can see coding takes up the smallest amount of time while testing takes up fifty percent of the time. Brooks also discussed how the majority of software engineers are young and young people have a lot of optimism. This increased amount of optimism means that they very rarely account for time spent on testing and debugging because they are too optimistic that their code is going to be perfect the first time around. This in turn affects their schedule and will most likely result in an extension in the schedule for the task or a failure to complete the task in the stated time.
 
