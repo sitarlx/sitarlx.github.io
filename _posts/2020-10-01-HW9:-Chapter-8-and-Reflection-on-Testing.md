@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### 8.7
 ### Write a scenario that could be used to help design tests for the wilderness weather station system.
