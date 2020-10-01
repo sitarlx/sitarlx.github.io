@@ -9,5 +9,6 @@ Once logged on, Johny checks the status of the connection to the satellite respo
 
 ### 8.10
 ###  A common approach to system testing is to test the more important functionalities of a system first, followed by the less important functionalities until the testing budget is exhausted. Discuss the ethics involved in identifying what “more important” means.
+What may be "more important" to one person may not be to another. This can be an ethical problem becasue your boss might think one part of the code is more important when in fact its not and if you exhaust all your budget then you cannot go back to fix other problems. This is not ethical for a customer either because they are going to get a product that is not 100% bug free. This is why you need to spend the most time testing (about half of the entire time) in order to fix all bugs. Nothing is software is more or less important than the other. Everything is intertwined together and if one thing is faulty, it will most likely end up with system failure or a defective product.
 
 ### Relection on Testing
