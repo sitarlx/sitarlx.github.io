@@ -3,9 +3,9 @@ published: false
 ---
 ### 15.10: 
 ### The reuse of software raises a number of copyright and intelectual property issues. If a customer pays a software contractor to develop a system, who has the right to reuse the developed code?
-
+At the end of the day, the customer paid for the code so he owns it and has the right to reuse the code. Altough the software contractor actually developed the code, he was paid to develop it and did notr develop it on his own.
 ### Does the software contractor have the right to use that code as a basis for a generic component?
-
+The contractor does not have the right to use that code as a basis for a generic component. However, he can ask or pay the owner for rights of the code.
 ### What payment mechanisms might be used to reimburse providers of reusable components?
-
+Providers can be reimbursed in a variety of ways. They can obtain royalties for duration of use, simply sell the software, or be provided stock in future business and software that uses their code.
 ### Dicuss these issues and other ethical issues associated with the reuse of software.
