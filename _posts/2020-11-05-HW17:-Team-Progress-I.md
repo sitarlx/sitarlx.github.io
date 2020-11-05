@@ -1,6 +1,4 @@
 ---
-published: false
+published: true
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Nathan, Paul and I have been making great progress testing methods in the open source code by Tanaguru, specifically their contrast finder. We originally were going to do Open-MRS but the methods were too confusing to test so we changed to Tanaguru becasue it was more readable. We have worked like a charm together. Nathan and Paul are always available, we are always on zoom calls together so we can communicate, and we all have contribute to the project. We have created 25/25 test cases and we have automated them to print the results of the test cases and whether they succeed or fail or an html page. We have finished Deliverable #3 of the final report and the next step is to complete Deliverable #4 which we are well ahead on becasue we have the automated testing completed.
