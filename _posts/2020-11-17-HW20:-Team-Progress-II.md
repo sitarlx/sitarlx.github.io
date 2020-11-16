@@ -1,6 +1,5 @@
 ---
-published: false
+published: true
 ---
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Our team has flowed very well together the entire time. We are always able to meet at the same time to work on the project and we all contributed an even amount of work. Whether it was working on the automation of the test cases or deliverables, we all were able to contribute valuable input. Since Java is my stronger language, I wish I would have attempted a project witha language that was out of my comfort zone. That being said, I still was able to grasp a very good concept of automated software testing and being able to create clean, efficient and reliable code. I also have gained more experience in Linux command lines, git commands, creating scripts, and outputting the results of the tests into a table in a html file. Testing your code is just as important as the development of code and this class and project has helped me realize that. A lot of jobs I have stumbled across have asked that you have experience in testing code and I am thankful this class allowed me to add this skill under my belt.
